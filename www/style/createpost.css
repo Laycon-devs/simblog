@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background: #003366;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #002244;
+}
+
+body {
+    background: linear-gradient(135deg, #003366, #cc0000);
+    color: #fff;
+}
+
+.card-body {
+    background: #ffffff;
+    color: #000000;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+a {
+    color: #003366;
+}
+
+a:hover {
+    color: #cc0000;
+}
